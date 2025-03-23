@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+ 
+   padding: 0;
+}
+body{
+    background: rgba(0, 0, 0, 0.5) url(images/coffee\ back\ 2.jpg);
+    background-size: cover;
+    
+}
+nav{
+    padding: 15px 19px;
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.logo h1{
+    font-size: 38px;
+    margin-left: 45px;
+    padding: 20px;
+}
+span{
+    color: orangered;
+    font-size: 55px;
+}
+.lin-k{
+    padding: 3% 10%;
+}
+.lin-k a{
+    font-size: 20px;
+    padding: 20px 18px;
+    text-decoration: none;
+    color: black;
+}
+.cart{
+    padding: 3% 10%;
+}
+.cart i{
+    font-size: 20px;
+    padding: 10px;
+}
+.content{
+padding: 10% 10%;
+}
+.content h3{
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: -20px;
+}
+.content h2{
+    font-size: 45px;
+    font-weight: 600;
+    margin-left: -20px;
+}
+.content p{
+    font-size: 27px;
+    font-style: italic;
+    margin-left: -20px;
+}
+.socials{
+    padding: 20px 2px;
+    margin-left: -35px;
+}
+.socials i{
+    font-size: 27px;
+    padding: 15px ;
+}
+.btn{
+    padding: 20px 17px;
+    margin-left: -35px;
+}
+.btn  button{
+    padding:15px 100px;
+    border: none;
+    background-color: orangered;
+    color: #fff;
+    border-radius: 13px;
+    border-top-left-radius: 0;
+}
+.btn button:hover{
+    background: rgb(156, 209, 230);
+    color: black;
+}
+	
+  
+
